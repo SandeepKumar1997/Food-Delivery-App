@@ -22,3 +22,10 @@
     transform: translateY(0);
   }
 }
+
+.loadingMeals{
+  text-align: center;
+  color: black;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
